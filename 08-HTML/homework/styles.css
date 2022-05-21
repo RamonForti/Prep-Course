@@ -1,0 +1,22 @@
+
+h1 {
+    color:yellowgreen
+}
+
+img {
+    width:200px;
+    height:200px;
+}
+
+#thirdDiv {
+    height:600px;
+    width:500px;
+    background-color: aqua;
+    padding:50px;
+    border:5px solid black
+}
+
+#spanid {
+    font-size: 6px;
+    margin: 50px;
+}
